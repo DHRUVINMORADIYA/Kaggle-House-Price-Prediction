@@ -1,0 +1,9 @@
+
+Step	Change	Avg val log RMSE
+0	Baseline	0.1524
+1	Drop 2 outliers	
+2	Fix missing values	
+3	Fix types	
+4	log1p skewed areas	
+5	Drop Utilities	
+6	Tune model	
